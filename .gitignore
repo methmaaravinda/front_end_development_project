@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Webpack
+/dist/
+/.webpack/
+hey
+# IDE files
+.vscode/
+.idea/
+
+# Logs and debugging
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled output
+/build/
+*.js
+!webpack.config.js
+*.js.map
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
